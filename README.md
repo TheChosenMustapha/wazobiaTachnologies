@@ -19,7 +19,7 @@ The Figma design for the application can be found [here](https://www.figma.com/f
 - The user needs to be able to log out.
 
 #### Extra Notes
-- When the user signs up/logs in a JWT Token is returned from the API in the response body. This token is valid for 3 days..
+- When the user signs up/logs in a JWT Token is returned from the API in the response body. This token is valid for 3 days.
 - For testing purposes, if you need to delete accounts that you have already created, make calls to the respective deleteMe and DELETE /me/{email} GraphQL and REST endpoints.
 - Fork this repository into a private repository to get started. As you work please commit regularly so that we can have an idea of how you work. Submissions that go straight from initial commit to final commit will not be accepted. You have 4 days to complete the task.
 - Please execute this task to the best of your ability. This means thinking through possible edge cases and handling them. We are not necessarily looking for perfection but we want to assess your current level. Like we said earlier this task is quite similar to the day to day activities you will be carrying out here.
