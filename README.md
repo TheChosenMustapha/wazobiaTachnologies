@@ -24,7 +24,7 @@ The Figma design for the application can be found [here](https://www.figma.com/f
 - For testing purposes, if you need to delete accounts that you have already created, make calls to the respective deleteMe and DELETE /me/{email} GraphQL and REST endpoints.
 - We make use of Material UI/Chakra UI/Styled Components for styling but if you are more familiar with a different CSS framework/library that is fine.
 - Fork this repository into a private repository to get started. As you work please commit regularly so that we can have an idea of how you work. Submissions that go straight from initial commit to final commit will not be accepted. You have 4 days to complete the task.
-- Please execute this task to the best of your ability. This means thinking through possible edge cases and handling them. We are not necessarily looking for perfection but we want to assess your current level. Like we said earlier this task is quite similar to the day to day activities you will be carrying out here.
+- Please execute this task to the best of your ability. We want to see your best possible work. This means thinking through possible edge cases and handling them. Like we said earlier this task is quite similar to the day to day activities you will be carrying out here.
 - When you are done, invite @olamileke, @adebay8, @onuche1 and @Femi-Kasali as collaborators on the repository.
 
 If you have any questions, feel free to email ofambegbe@wazobia.tech or oadebayo@wazobia.tech. Good luck!
